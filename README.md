@@ -1,1 +1,1 @@
-# matplotlib-Pymaceuticals_Inc
+A mock data graphical analysis of a cancer treatment study utilizing matplotlib and pandas.
